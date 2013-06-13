@@ -25,7 +25,7 @@ Screencasts provided by <a href="http://railscasts.com">Railscasts</a> (Ryan Bat
 in this episode you will learn how to include Twitter Bootstrap into Rails application with the twitter-bootstrap-rails gem.
 
 [More on Twitter Bootstrap](http://railscasts.com/episodes/329-more-on-twitter-bootstrap "More on Twitter Bootstrap")
-in this episode continues on the Twitter Bootstrap project showing how to display flash messages, add form validations with SimpleForm, customize layout with variables, and switch to using Sass.
+this episode continues on the Twitter Bootstrap project showing how to display flash messages, add form validations with SimpleForm, customize layout with variables, and switch to using Sass.
 (Note: This episode is pro episode)
 
 
