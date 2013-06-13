@@ -82,7 +82,7 @@ After running `bundle install`, run the generator:
 
 ## Generating layouts and views
 
-You can run following generators to get started with Twitter Bootstrap quickly.
+You can run the following generators to get started with Twitter Bootstrap quickly.
 
 
 Layout (generates Twitter Bootstrap compatible layout) - (Haml and Slim supported)
